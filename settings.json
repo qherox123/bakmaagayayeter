@@ -1,0 +1,11 @@
+{
+  "prefix" : "!",
+  "owner" : ["921823508672180255","932346337477939221",""],
+  "clientid" : "1003349127381401640",
+  "clientsecret" : "7mtIX9SPrgMhIKaCPdzTbBYJ78NCUEKH",
+  "clientcallback" : "https://sleet-feline-tax.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://dekurlas:dekurlasagaistenebakion123@dekurlas12.viwmq.mongodb.net/?retryWrites=true&w=majority",
+  "serverID": "1003366966679052410",
+  "footer": "Pelkas Cloud 2022 © All rights reserved.",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
